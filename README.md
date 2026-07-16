@@ -51,7 +51,7 @@ instance : Markdown.Represent MyReport where
 
 ## Requirements
 
-- Lean 4 (v4.28.0 or compatible)
+- Lean 4 (v4.32.0 or compatible)
 
 ## License
 
